@@ -13,7 +13,7 @@
 			"phootwork\\file\\tests\\" : "tests"
 		}
 	},
-	"name" : "phootwork/file",
+	"name" : "nas1k/phootwork-file",
 	"type" : "library",
 	"description" : "File Operations for the local Filesystem",
 	"license" : "MIT",
